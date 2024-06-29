@@ -6,15 +6,6 @@ I am a Master of Cyber Security student with a deep passion for technology and c
 ## Objective
 My journey in SaaS Sales sparked a desire to develop technical skills, which  led me to cybersecurity. I am now motivated to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      | |
-| Scripting and Automation for Threat Mitigation | |
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Professional%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -41,3 +32,11 @@ My journey in SaaS Sales sparked a desire to develop technical skills, which  le
 ## Projects
 - X
 - Y
+- Z
+
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| A          | |
+| B | |
+| C         | |
