@@ -14,20 +14,20 @@ My journey in SaaS Sales sparked a desire to develop technical skills, which  le
 </div>
 
 ## Master of Cyber Security (Charles Sturt University) - Grades
-| Unit                                  | Result          |
-|---------------------------------------|-----------------|
-| Cyber Security Fundamentals           | 85 (HD)         |
-| Cloud Computing                       | 85 (HD)         |
-| Cyber Warfare and Terrorism           | 85 (HD)         |
-| Cyber Threat Intelligence             | in progress     |
-| Information Security                  | in progress     |
-| Professional Systems Security         | in progress     |
-| Pen Testing                           |                 |
-| Network Security and Cryptography     |                 |
-| Hacking Countermeasures               |                 |
-| Digital Forensics                     |                 |
-| Incident Response                     |                 |
-| Emerging Technologies and Innovation  |                 |
+| Unit                                  | Result      | Notable Learnings                                                                                              |
+|---------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------|
+| Cyber Security Fundamentals           | 85 (HD)     | Fundamental cyber security principles (heavily aligned with CompTIA Security+)                                 |
+| Cloud Computing                       | 85 (HD)     | Designed a detailed cloud migration plan using Amazon AWS                                                      |
+| Cyber Warfare and Terrorism           | 85 (HD)     | Past cyber warfare & terrorism activities, motivations, actors, and future trends.                             |
+| Cyber Threat Intelligence             | in progress |    |
+| Information Security                  | in progress |    |   
+| Professional Systems Security         | in progress |    |
+| Pen Testing                           |             |    |
+| Network Security and Cryptography     |             |    |
+| Hacking Countermeasures               |             |    |
+| Digital Forensics                     |             |    |
+| Incident Response                     |             |    |
+| Emerging Technologies and Innovation  |             |    |
 
 ## Projects
 - X
